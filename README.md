@@ -1,2 +1,3 @@
 # hello-world
 In principio erat...
+Working on programming and creating a repository to get things up and running. 
